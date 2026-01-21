@@ -31,7 +31,7 @@
 ---
 
 ## ✔️ 빌드 & 배포 Architecture
-<이미지 들어갈 공간>
+![빌드&배포 구성](etc/github/build_workflow.png)
 
 ### 배포 흐름 요약
 - GitHub에 **push** → Jenkins가 **빌드**
@@ -47,7 +47,7 @@
 ---
 
 ## ✔️ DB 구성도 (2023.05.17 ver)
-<이미지 들어갈 공간>
+![DB_ERD](etc/github/db_erd.png)
 
 ### 설계 요약
 - 핵심 엔티티는 **Member(사용자)**, **Quizcard(퀴즈 카드)** 중심으로 구성
